@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Tejaswi P!
 
-🚀 Frontend Developer | Vue.js • React.js 
+🚀 Frontend Developer | Vue.js • React.js           
 🎯 Passionate about building responsive, high-performance web apps  
 📫 tejaswip0811@gmail.com | [LinkedIn](https://linkedin.com/in/tejaswi-sagar)
 
